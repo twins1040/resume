@@ -1,2 +1,2 @@
 # resume
-Open my human source
+Open my human source.
